@@ -6,9 +6,6 @@ def first_challenge
         
      :capulet => { }
           
-          
-          ]
-     }
      
    }
    return epic_tragedy

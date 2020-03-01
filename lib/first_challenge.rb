@@ -1,6 +1,10 @@
 def first_challenge
   
-  epic_tragedy = [{}, {}]
+  epic_tragedy = {
+    :motague => {},
+    :capulet => {}
+    
+  }
   
    epic_tragedy = {
      

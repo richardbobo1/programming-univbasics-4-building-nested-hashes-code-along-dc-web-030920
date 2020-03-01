@@ -33,8 +33,7 @@ def first_challenge
      }
      
    }
-   return epic_tragedy[:montague]
-   return epic_tragedy[:capulet]
+   return epic_tragedy
    
 end
 

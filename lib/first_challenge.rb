@@ -40,3 +40,5 @@ def first_challenge
      
    }
 end
+
+first_challenge
